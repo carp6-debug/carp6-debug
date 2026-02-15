@@ -21,4 +21,4 @@ I am a Systems Architect and Developer with a career defined by technical leader
 * **[PCRE Repository Dataset](./PCRE_Project_Link):** Data engineering and relational mapping for industrial electrical stress-test telemetry.
 
 ---
-📫 **Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) | **Technical Deep-Dive:** [DEVELOPER.md](./DEVELOPER.md) | [AI_GOVERNANCE.md](./AI_GOVERNANCE.md)
+📫 **Connect:** [LinkedIn](https://linkedin.com/in/joseph-volpe-76a6883b0) | **Technical Deep-Dive:** [DEVELOPER.md](./DEVELOPER.md) | [AI_GOVERNANCE.md](./AI_GOVERNANCE.md)
