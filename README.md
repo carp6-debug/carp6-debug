@@ -17,8 +17,8 @@ I am a Systems Architect and Developer with a career defined by technical leader
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ### 🎯 Portfolio Highlights (Advanced Technical Residency)
-* **[CDC Healthcare Analytics Portal](./CDC_Diabetes_Project):** An N-Tier demonstration of clinical risk-stratification logic using .NET 9 and Python.
-* **[PCRE Repository Dataset](./PCRE_Project_Link):** Data engineering and relational mapping for industrial electrical stress-test telemetry.
+* **[CDC Healthcare Analytics Portal](https://github.com/carp6-debug/CDC_Diabetes_Project):** An N-Tier demonstration of clinical risk-stratification logic using .NET 9 and Python.
+* **[PCRE Repository Dataset](https://github.com/carp6-debug/PCRE_Project):** Data engineering and relational mapping for industrial electrical stress-test telemetry.
 
 ---
-📫 **Connect:** [LinkedIn](https://linkedin.com/in/joseph-volpe-76a6883b0) | **Technical Deep-Dive:** [DEVELOPER.md](./DEVELOPER.md) | [AI_GOVERNANCE.md](./AI_GOVERNANCE.md)
+📫 **Connect:** [LinkedIn](https://linkedin.com/in/joseph-volpe-76a6883b0) | **Technical Deep-Dive:** [DEVELOPER.md](https://github.com/carp6-debug/CDC_Diabetes_Project/blob/main/DEVELOPER.md) | [AI_GOVERNANCE.md](https://github.com/carp6-debug/CDC_Diabetes_Project/blob/main/AI_GOVERNANCE.md)
