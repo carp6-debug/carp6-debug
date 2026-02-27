@@ -26,9 +26,10 @@ By leveraging an elevated proficiency in **Business Analysis** and **Project Man
 * **Technical Implementation:** Engineered a data repository for industrial electrical stress-test telemetry, focusing on relational mapping and data integrity.
 * **Core Value:** Bridging test engineering experience with modern data engineering to manage complex, hardware-driven datasets.
 
-#### **[Maintenance Probability & System Observability](https://github.com/carp6-debug)** (Build in Progress)
-* **Goal:** Architecting an AI-driven pipeline to transform industrial telemetry into proactive maintenance alerts.
-* **Focus:** Developing predictive analytics and anomaly detection logic for real-time system health monitoring.
+#### **[Construction Predictive Maintenance Portal](https://github.com/carp6-debug/CEP_Predictive_Project)**
+* **Role Alignment:** Systems Architect / Data Engineer
+* **Technical Implementation:** Architected a 4-tier ecosystem utilizing .NET 9 (Blazor), PostgreSQL, and Python to transform static NYC construction schedules into telemetry-driven predictive models.
+* **Core Value:** Demonstrated system observability by synthesizing 16,500+ Gaussian-based telemetry logs to identify critical equipment failure windows before they impact project deadlines.
 
 ---
 
