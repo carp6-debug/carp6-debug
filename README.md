@@ -31,6 +31,12 @@ By leveraging an elevated proficiency in **Business Analysis** and **Project Man
 * **Technical Implementation:** Architected a 4-tier ecosystem utilizing .NET 9 (Blazor), PostgreSQL, and Python to transform static NYC construction schedules into telemetry-driven predictive models.
 * **Core Value:** Demonstrated system observability by synthesizing 16,500+ Gaussian-based telemetry logs to identify critical equipment failure windows before they impact project deadlines.
 
+#### **[ERCOT Energy‑Grid Analytics & AI Datacenter Modeling Portal](https://github.com/carp6-debug/ERCOT_Telemetry_Project)**
+* **Role Alignment:** Systems Analyst / Data Engineer / Programmer Analyst  
+* **Technical Implementation:** Engineered a complete N‑Tier analytical ecosystem integrating Python ETL, a dimensional PostgreSQL warehouse, a .NET 9 analytical service layer, and a Blazor dashboard that consumes real‑time ERCOT telemetry. The system ingests and normalizes multi‑year ERCOT load and RTM price archives (2022–2026), computes 1‑GW datacenter cost‑exposure models, and exposes analytical endpoints for interactive visualization.  
+* **Core Value:** Demonstrates enterprise‑grade architectural reasoning by unifying historical grid telemetry, real‑time operational signals, and scenario‑based datacenter modeling into a reproducible analytics platform. Highlights senior‑level capability in systems analysis, time‑series engineering, and N‑Tier application design for large‑scale energy and compute infrastructure.
+
+
 ---
 
 ### **🛠️ Technical Core**
