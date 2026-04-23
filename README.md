@@ -46,7 +46,7 @@ By leveraging an elevated proficiency in **Business Analysis** and **Project Man
 * **Data Engineering:** ETL/ELT Pipelines, Relational Database Design, Data Integrity, Legacy Migrations.
 * **Systems & Infrastructure:** N-Tier Architecture, Hardware-Software Integration, IoT Protocols, Network Infrastructure.
 * **Analysis & Governance:** Systems Analysis, Business Analysis, SDLC Management, CAPM/PMBOK Methodologies.
-* **Advanced Analytics:** Predictive Modeling, Anomaly Detection, Generative AI Implementation.
+* **Advanced Analytics:** Predictive Modeling, Time-Series Analytics, Generative AI Implementation.
 
 ---
 📫 **Connect with Me**
