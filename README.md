@@ -16,6 +16,13 @@ By leveraging an elevated proficiency in **Business Analysis** and **Project Man
 ### **🚀 Featured Projects**
 *Functional demonstrations of the convergence between systems architecture and modern data engineering roles.*
 
+#### **[Agentic Intelligence Gateway | Fine-Tuned Specialist Command Center](https://github.com/carp6-debug/AGENTIC_Gateway_AI_Project)**
+* **Role Alignment:** AI Architect / Senior Systems Analyst / Programmer Analyst
+* **Technical Implementation:** Architected a sophisticated N-Tier "Agentic" ecosystem bridging a .NET 9 Blazor dashboard with a fine-tuned TinyLlama specialist. Engineered custom LoRA adapters via Python (PyTorch/PEFT) to ingest and interpret complex high-resolution telemetry from NASA (Prognostics) and CDC (Clinical) sources. 
+* **Core Value:** Demonstrates **"Agentic Thinking"**—transforming a generic LLM into a domain-expert controller. Utilizes **Microsoft Semantic Kernel** to orchestrate a "Federated Handshake," dynamically injecting database metadata to ensure grounded, hallucination-free interactions with legacy enterprise services.
+
+---
+
 #### **[CDC Healthcare Analytics Portal](https://github.com/carp6-debug/CDC_Diabetes_Project)**
 * **Role Alignment:** Programmer Analyst / Systems Architect
 * **Technical Implementation:** Developed an N-Tier architecture to perform clinical risk-stratification logic on large-scale CDC datasets.
@@ -35,7 +42,6 @@ By leveraging an elevated proficiency in **Business Analysis** and **Project Man
 * **Role Alignment:** Systems Analyst / Data Engineer / Programmer Analyst  
 * **Technical Implementation:** Engineered a complete N‑Tier analytical ecosystem integrating Python ETL, a dimensional PostgreSQL warehouse, a .NET 9 analytical service layer, and a Blazor dashboard that consumes real‑time ERCOT telemetry. The system ingests and normalizes multi‑year ERCOT load and RTM price archives (2022–2026), computes 1‑GW datacenter cost‑exposure models, and exposes analytical endpoints for interactive visualization.  
 * **Core Value:** Demonstrates enterprise‑grade architectural reasoning by unifying historical grid telemetry, real‑time operational signals, and scenario‑based datacenter modeling into a reproducible analytics platform. Highlights senior‑level capability in systems analysis, time‑series engineering, and N‑Tier application design for large‑scale energy and compute infrastructure.
-
 
 ---
 
