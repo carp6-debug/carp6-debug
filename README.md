@@ -1,20 +1,27 @@
 # 🏛️ Senior Systems Architect & Data Engineer
-*Integrating Business Logic with High-Integrity Data Engineering.*
+*Architecting Deterministic AI Pipelines and High-Integrity Data Engineering Ecosystems.*
 
 ---
 
 # 💼 Professional Profile
 
+# 💼 Professional Profile
+
 I am a **Systems Architect and Programmer Analyst** specializing in the design and engineering of production-ready data systems. My professional trajectory is defined by a deep technical evolution: beginning with **component-level electronics** and **hardware failure analysis**, advancing through **complex test engineering**, and culminating in the development of modern **N-Tier software architectures**.
 
-As an experienced code writer, I architect high-integrity data environments using **Python, SQL, and .NET 9**. My solutions are informed by an expert-level understanding of the physical and logical constraints of the entire system, ensuring a seamless bridge between raw hardware signals and enterprise software logic. By utilizing **PostgreSQL** for advanced relational mapping, I demonstrate the ability to architect scalable, secure, and performant database environments.
+Building upon an extensive background in **LAMP and .NET web application development**, my expertise has naturally progressed into formal Systems Analysis and Enterprise Architecture. I engineer resilient environments using **C#/.NET 9, Python, and SQL**. Today, my focus bridges traditional application development with modern **Data Engineering** and **Applied AI**. By orchestrating robust ETL pipelines, vector databases, and highly constrained LLM reasoning, I architect deterministic, hallucination-free AI solutions—such as Hybrid-RAG and Agentic workflows—that safely bring unstructured knowledge into production.
 
-By leveraging an elevated proficiency in **Business Analysis** and **Project Management (CAPM)**, I ensure that every technical solution—from large-scale enterprise migrations to modern technical residencies—is directly aligned with business ROI and long-term scalability. My current work extends these foundational skills into **Predictive Analytics and AI**, building the intelligent observability pipelines required for next-generation industrial and healthcare systems.
+By leveraging an elevated proficiency in **Business Analysis** and **Project Management (CAPM)**, I ensure that every technical solution—from large-scale application migrations to modern AI integrations—is directly aligned with business ROI and long-term scalability. My work extends these foundational skills into **Predictive Analytics and AI**, building the intelligent, auditable pipelines required for next-generation industrial and healthcare systems.
 
 ---
 
 ### **🚀 Featured Projects**
 *Functional demonstrations of the convergence between systems architecture and modern data engineering roles.*
+
+#### **[RAG Enterprise AI | Hybrid-Retrieval Knowledge Orchestrator](https://github.com/carp6-debug/RAG_Enterprise_AI_Project)**
+* **Role Alignment:** System Architect / Data Engineer / Systems Analyst / Programmer Analyst
+* **Technical Implementation:** Architected a fully decoupled N-Tier Hybrid-RAG ecosystem to bridge the gap between unstructured data and LLM reasoning [cite: 75, 76]. Built a Python-based "Ingestion Guard" utilizing PyMuPDF for layout-aware Semantic Chunking, explicitly rejecting naive character-count splitting to preserve critical engineering context [cite: 73, 86]. Established a Hybrid Search Strategy combining FastEmbed (BGE-Small-EN-v1.5) dense semantic arrays with Sparse (BM25) keyword indexing via Pinecone [cite: 73, 86]. Engineered a .NET 9 API Gateway to strictly govern local Intel IPEX-LLM (Phi-3.5) inference natively on CPU hardware [cite: 75, 86].
+* **Core Value:** Demonstrates **"Vector Custodianship"** and Unstructured Data Engineering—the essential architectural counterpart to parameter fine-tuning [cite: 74]. Transforms massive technical manuals into an auditable, hallucination-free "Expert System" [cite: 74]. Mathematically eradicates **Stochastic Drift** using C# Contextual Weighting, Persona-driven Semantic Routing, and a strict "Citable AI" Reference Badge protocol [cite: 78, 79, 81].
 
 #### **[Agentic Intelligence Gateway | Fine-Tuned Specialist Command Center](https://github.com/carp6-debug/AGENTIC_Gateway_AI_Project)**
 * **Role Alignment:** AI Architect / Senior Systems Analyst / Programmer Analyst
