@@ -5,8 +5,6 @@
 
 # 💼 Professional Profile
 
-# 💼 Professional Profile
-
 I am a **Systems Architect and Programmer Analyst** specializing in the design and engineering of production-ready data systems. My professional trajectory is defined by a deep technical evolution: beginning with **component-level electronics** and **hardware failure analysis**, advancing through **complex test engineering**, and culminating in the development of modern **N-Tier software architectures**.
 
 Building upon an extensive background in **LAMP and .NET web application development**, my expertise has naturally progressed into formal Systems Analysis and Enterprise Architecture. I engineer resilient environments using **C#/.NET 9, Python, and SQL**. Today, my focus bridges traditional application development with modern **Data Engineering** and **Applied AI**. By orchestrating robust ETL pipelines, vector databases, and highly constrained LLM reasoning, I architect deterministic, hallucination-free AI solutions—such as Hybrid-RAG and Agentic workflows—that safely bring unstructured knowledge into production.
