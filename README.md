@@ -46,7 +46,8 @@ These systems introduced formal AI architecture: hybrid‑retrieval pipelines, c
 * **Role Alignment:** AI Architect / Senior Systems Analyst  
 * **Technical Implementation:** Architected an N‑Tier agentic ecosystem bridging a .NET 9 Blazor dashboard with a fine‑tuned TinyLlama specialist using custom LoRA adapters.  
 * **Core Value:** Demonstrates “Agentic Thinking”—a domain‑expert controller orchestrated through Semantic Kernel and grounded enterprise metadata.  
-* **Repository Utilization:** Leveraged three prior Data Analytics Portfolio Project Foundations (**See Below**) repositories as finetuning datasets, demonstrating how foundational telemetry platforms evolved into domain‑specific training corpora:  
+* **Repository Utilization:** Leveraged three prior Data Analytics Portfolio Project Foundations (**See Below**) repositories as finetuning datasets, demonstrating how foundational telemetry platforms evolved into domain‑specific training corpora:
+    
   * PCRE Repository Dataset  
   * Construction Predictive Maintenance Portal  
   * CDC Healthcare Analytics Portal
