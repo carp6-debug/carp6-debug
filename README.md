@@ -12,9 +12,13 @@ Building upon an extensive background in **LAMP and .NET web application develop
 By leveraging an elevated proficiency in **Business Analysis** and **Project Management (CAPM)**, I ensure that every technical solution—from large-scale application migrations to modern AI integrations—is directly aligned with business ROI and long-term scalability. My work extends these foundational skills into **Predictive Analytics and AI**, building the intelligent, auditable pipelines required for next-generation industrial and healthcare systems.
 
 ---
-
 ### **🚀 Featured Projects**
 *Functional demonstrations of the convergence between systems architecture and modern data engineering roles.*
+
+#### **[AI Engineering: Digital Signal Dashboard UI | Blazor • .NET 9 • AI Engineering Platform Operator Interface](https://github.com/carp6-debug/AI_Engineering_Digital_Signal_Dashboard)**
+* **Role Alignment:** AI Engineer / System Architect / Full‑Stack Engineer
+* **Technical Implementation:** Built a Blazor Server / .NET 9 dashboard that serves as the operator interface for a fully local AI Engineering architecture supporting RAG retrieval, QLoRA Finetuning, and Agentic Diagnostic Reasoning. The UI provides structured controls for model selection, adapter configuration, inference execution, and telemetry interpretation, all delivered through a clean N‑Tier design that separates presentation, application logic, domain rules, and infrastructure communication. The dashboard renders real‑time model status, retrieval context, reasoning outputs, and signal‑quality insights through domain‑specific components tailored for RF troubleshooting workflows.
+* **Core Value:** Demonstrates “AI Engineering for Operational Interfaces”—the ability to translate complex AI system behavior into a clear, explainable, operator‑ready dashboard. The UI turns the underlying RAG + Finetuning + Agentic Diagnostic Reasoning architecture into an interactive Diagnostic Console, enabling controlled inference, transparent grounding, and multi‑step reasoning without cloud dependencies. It establishes a blueprint for full‑stack AI systems where modern .NET front‑end engineering and local AI pipelines operate as a unified, enterprise‑grade solution.
 
 #### **[AI Engineering: Digital Signal Telemetry System | RAG • Finetuning • Agentic Diagnostics](https://github.com/carp6-debug/AI_Engineering_Digital_Signal_Telemetry)**
 * **Role Alignment:** AI Engineer / System Architect / Data Engineer / Senior Systems Analyst  
