@@ -15,7 +15,13 @@ Supported by strong **Business Analysis** and **Project Management (CAPM)** capa
 # 📦 Portfolio Architecture Overview  
 ### A Cohesive Progression of Data Engineering, System Architecture, and AI Engineering  
 
-This portfolio reflects a deliberate architectural evolution. Each project builds on the engineering patterns, datasets, and system‑design principles established in earlier work. The progression moves naturally from **enterprise data platforms**, to **cloud‑based agentic AI systems**, and finally to **fully local AI Engineering architectures** capable of RAG retrieval, finetuning, and agentic diagnostic reasoning.
+This portfolio reflects a deliberate architectural evolution. Each project builds on the engineering patterns, datasets, and system‑design principles established in earlier work. The progression moves naturally from **enterprise data platforms**, to **cloud‑based agentic AI systems**, and finally to **fully local AI Engineering architectures** capable of RAG retrieval, finetuning, and agentic diagnostic reasoning. In the final Portfolio Project, we continue full‑stack AI Engineering development and pivot away from the previous comprehensive, static GitHub‑based repositories into an ongoing, dynamic Multi‑Agent demonstration delivered through a **cloud‑hosted**, interactive dashboard.
+
+---
+
+## **AI Engineering — Cloud‑Hosted Multi‑Agent System (Live Demonstration)**  
+This final project introduces a fully interactive, cloud‑hosted Multi‑Agent system designed to showcase real‑time agent collaboration and workflow execution. The live dashboard provides an ongoing, dynamic demonstration of continued full‑stack AI Engineering development, offering a real‑time, cloud‑based extension to the completed portfolio projects and illustrating an architecture suitable for enterprise‑grade AI workflows.  
+**Live Multi‑Agent Demo:** https://ai-telemetry-dashboard.pages.dev/
 
 ---
 
