@@ -12,16 +12,26 @@ Building on extensive experience in **LAMP and .NET application development**, m
 Supported by strong **Business Analysis** and **Project Management (CAPM)** capabilities, I ensure every technical solution—whether a large‑scale application migration, a predictive analytics platform, or an AI‑driven diagnostic system—is aligned with business ROI, long‑term maintainability, and enterprise scalability. My work bridges traditional system design with next‑generation AI Engineering, delivering intelligent, explainable, and domain‑specific architectures for industrial, healthcare, and telemetry‑driven environments.
 
 ---
+
 # 📦 Portfolio Architecture Overview  
 ### A Cohesive Progression of Data Engineering, System Architecture, and AI Engineering  
 
-This portfolio reflects a deliberate architectural evolution. Each project builds on the engineering patterns, datasets, and system‑design principles established in earlier work. The progression moves naturally from **enterprise data platforms**, to **cloud‑based agentic AI systems**, and finally to **fully local AI Engineering architectures** capable of RAG retrieval, finetuning, and agentic diagnostic reasoning. In the final Portfolio Project, we continue full‑stack AI Engineering development and pivot away from the previous comprehensive, static GitHub‑based repositories into an ongoing, dynamic Multi‑Agent demonstration delivered through a **cloud‑hosted**, interactive dashboard.
+This portfolio reflects a deliberate architectural evolution. Each project builds on the engineering patterns, datasets, and system‑design principles established in earlier work. The progression moves naturally from **enterprise data platforms**, to **cloud‑based agentic AI systems**, and finally to **fully local AI Engineering architectures** capable of RAG retrieval, finetuning, and agentic diagnostic reasoning. In the final Portfolio Project, we continue full‑stack AI Engineering development and pivot away from the previous comprehensive, static GitHub‑based repositories into an ongoing, dynamic Multi‑Agent demonstration delivered through **cloud‑hosted**, interactive multi-cloud dashboards.
 
 ---
 
-## **AI Engineering — Cloud‑Hosted Multi‑Agent System (Live Demonstration)**  
-This final project introduces a fully interactive, cloud‑hosted Multi‑Agent system designed to showcase real‑time agent collaboration and workflow execution. The live dashboard provides an ongoing, dynamic demonstration of continued full‑stack AI Engineering development, offering a real‑time, cloud‑based extension to the completed portfolio projects and illustrating an architecture suitable for enterprise‑grade AI workflows.  
-**Live Multi‑Agent Demo:** https://ai-telemetry-dashboard.pages.dev/
+## 🤖 **AI Engineering — Cloud‑Hosted Multi‑Agent System (Live Demonstration)**  
+This final project introduces a fully interactive, multi-cloud Agentic AI architecture designed to demonstrate real‑time agent collaboration, telemetry monitoring, and workflow execution across complementary cloud providers. By extending our local N-Tier and AI portfolio into live, cloud-native deployments, this demonstration illustrates enterprise-grade resilience, cross-cloud strategy, and deterministic agentic governance.
+
+### 🌐 **Version 1: Cloudflare Workers AI Edge Node (Serverless Edge Inference)**
+Engineered on a high-throughput, serverless Blazor WASM architecture deployed directly to the Cloudflare global edge network. This node executes stateful multi-agent telemetry orchestration, utilizing edge-optimized inference models to deliver ultra-low latency command-and-control responsiveness.
+* **Architecture & Specs:** Blazor WASM, Cloudflare Pages / Workers AI Edge Compute, Llama 3.1 / DeepSeek / Mistral Model Selection.
+* **Live Edge Demonstration:** [https://ai-telemetry-dashboard.pages.dev/](https://ai-telemetry-dashboard.pages.dev/)
+
+### ☁️ **Version 2: Azure Static Web Apps (SWA) & Azure AI Platform Gateway**
+Engineered as an enterprise-grade cloud node hosted on Azure Static Web Apps (SWA), establishing a production foundation for enterprise Azure AI Foundry multi-agent model governance. This implementation benchmark-models advanced enterprise LLM tiering (`gpt-5-mini` Advanced & `gpt-4-mini` Fast) with Azure compute specifications, providing a direct production-ready template for Microsoft enterprise cloud ecosystems.
+* **Architecture & Specs:** Blazor WASM, Azure Static Web Apps (SWA) Infrastructure, Azure AI Foundry & OpenAI Enterprise Model Gateway Integration.
+* **Live Azure Demonstration:** [https://gray-beach-08d1d0d0f.4.azurestaticapps.net](https://gray-beach-08d1d0d0f.4.azurestaticapps.net)
 
 ---
 
