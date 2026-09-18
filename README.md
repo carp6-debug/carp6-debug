@@ -25,13 +25,13 @@ These enterprise live applications are developed and baselined directly from the
 
 ### 🌐 **Cloudflare Workers AI Edge Node (Serverless Edge Inference)**
 Built on a high-throughput Blazor WASM architecture deployed to Cloudflare’s global edge network. Executes a sequential multi-agent workflow leveraging Microsoft Semantic Kernel orchestration patterns for stateful telemetry analysis and ultra-low latency edge responsiveness.
-* **Tech Stack:** Blazor WASM, Microsoft Semantic Kernel, Cloudflare Pages / Workers AI Edge Compute, Llama 3.1 / DeepSeek / Mistral.
-* **Live Application:** [https://ai-telemetry-dashboard.pages.dev/](https://ai-telemetry-dashboard.pages.dev/)
+* **Tech Stack:** Blazor WASM, Microsoft Semantic Kernel, Cloudflare Workers AI, DigitalOcean API Gateway, Llama 3.1 / DeepSeek / Mistral.
+* **Live Application:** https://ai-telemetry-dashboard.pages.dev/
 
 ### ☁️ **Azure Static Web Apps & Enterprise Azure AI Foundry Gateway**
 Hosted on Azure Static Web Apps (SWA), serving as an enterprise cloud gateway engineered around Azure AI Foundry (Agents & Workflows). Orchestrates sequential multi-agent workflows across tiered enterprise LLMs (`gpt-5-mini` Advanced & `gpt-4-mini` Fast) to establish a deterministic foundation for Azure AI cloud infrastructure.
 * **Tech Stack:** Blazor WASM, Azure Static Web Apps (SWA), Azure AI Foundry (Agents & Workflows), OpenAI Enterprise Gateway Integration.
-* **Live Application:** [https://gray-beach-08d1d0d0f.4.azurestaticapps.net](https://gray-beach-08d1d0d0f.4.azurestaticapps.net)
+* **Live Application:** https://gray-beach-08d1d0d0f.4.azurestaticapps.net
 
 ---
 
