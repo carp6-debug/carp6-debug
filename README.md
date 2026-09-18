@@ -20,18 +20,18 @@ This portfolio reflects a deliberate architectural evolution. Each project build
 
 ---
 
-## 🤖 **AI Engineering — Cloud‑Hosted Multi‑Agent System (Live Demonstration)**  
-This final project introduces a fully interactive, multi-cloud Agentic AI architecture designed to demonstrate real‑time agent collaboration, telemetry monitoring, and workflow execution across complementary cloud providers. By extending our local N-Tier and AI portfolio into live, cloud-native deployments, this demonstration illustrates enterprise-grade resilience, cross-cloud strategy, and deterministic agentic governance.
+## 🤖 **AI Engineering — Cloud‑Hosted Multi‑Agent Systems (Live Deployments)**  
+These enterprise live applications are developed and baselined directly from the stringent full-stack N-Tier and AI engineering standards established across my preceding portfolio repositories. Extending these foundational architectural patterns into active multi-cloud environments, these running systems showcase real-time multi-agent collaboration, telemetry orchestration, and deterministic agentic governance—exemplifying the production-grade architectures I design and deliver across my contract engineering and advisory engagements.
 
-### 🌐 **Version 1: Cloudflare Workers AI Edge Node (Serverless Edge Inference)**
-Engineered on a high-throughput, serverless Blazor WASM architecture deployed directly to the Cloudflare global edge network. This node executes stateful multi-agent telemetry orchestration, utilizing edge-optimized inference models to deliver ultra-low latency command-and-control responsiveness.
-* **Architecture & Specs:** Blazor WASM, Cloudflare Pages / Workers AI Edge Compute, Llama 3.1 / DeepSeek / Mistral Model Selection.
-* **Live Edge Demonstration:** [https://ai-telemetry-dashboard.pages.dev/](https://ai-telemetry-dashboard.pages.dev/)
+### 🌐 **Cloudflare Workers AI Edge Node (Serverless Edge Inference)**
+Built on a high-throughput Blazor WASM architecture deployed to Cloudflare’s global edge network. Executes stateful multi-agent telemetry orchestration utilizing edge-optimized inference models for ultra-low latency command-and-control responsiveness.
+* **Tech Stack:** Blazor WASM, Cloudflare Pages / Workers AI Edge Compute, Llama 3.1 / DeepSeek / Mistral.
+* **Live Application:** [https://ai-telemetry-dashboard.pages.dev/](https://ai-telemetry-dashboard.pages.dev/)
 
-### ☁️ **Version 2: Azure Static Web Apps (SWA) & Azure AI Platform Gateway**
-Engineered as an enterprise-grade cloud node hosted on Azure Static Web Apps (SWA), establishing a production foundation for enterprise Azure AI Foundry multi-agent model governance. This implementation benchmark-models advanced enterprise LLM tiering (`gpt-5-mini` Advanced & `gpt-4-mini` Fast) with Azure compute specifications, providing a direct production-ready template for Microsoft enterprise cloud ecosystems.
-* **Architecture & Specs:** Blazor WASM, Azure Static Web Apps (SWA) Infrastructure, Azure AI Foundry & OpenAI Enterprise Model Gateway Integration.
-* **Live Azure Demonstration:** [https://gray-beach-08d1d0d0f.4.azurestaticapps.net](https://gray-beach-08d1d0d0f.4.azurestaticapps.net)
+### ☁️ **Azure Static Web Apps & Enterprise AI Platform Gateway**
+Hosted on Azure Static Web Apps (SWA), establishing an enterprise cloud foundation for Azure AI ecosystem integration and multi-agent model governance. Benchmark-models advanced enterprise LLM tiering (`gpt-5-mini` Advanced & `gpt-4-mini` Fast) mapped to Azure cloud compute specifications.
+* **Tech Stack:** Blazor WASM, Azure Static Web Apps (SWA), Azure AI Platform / OpenAI Enterprise Gateway Integration.
+* **Live Application:** [https://gray-beach-08d1d0d0f.4.azurestaticapps.net](https://gray-beach-08d1d0d0f.4.azurestaticapps.net)
 
 ---
 
