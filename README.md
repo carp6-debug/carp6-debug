@@ -24,13 +24,13 @@ This portfolio reflects a deliberate architectural evolution. Each project build
 These enterprise live applications are developed and baselined directly from the stringent full-stack N-Tier and AI engineering standards established across my preceding portfolio repositories. Extending these foundational architectural patterns into active multi-cloud environments, these running systems showcase real-time multi-agent collaboration, telemetry orchestration, and deterministic agentic governance—exemplifying the production-grade architectures I design and deliver across my contract engineering and advisory engagements.
 
 ### 🌐 **Cloudflare Workers AI Edge Node (Serverless Edge Inference)**
-Built on a high-throughput Blazor WASM architecture deployed to Cloudflare’s global edge network. Executes stateful multi-agent telemetry orchestration utilizing edge-optimized inference models for ultra-low latency command-and-control responsiveness.
-* **Tech Stack:** Blazor WASM, Cloudflare Pages / Workers AI Edge Compute, Llama 3.1 / DeepSeek / Mistral.
+Built on a high-throughput Blazor WASM architecture deployed to Cloudflare’s global edge network. Executes a sequential multi-agent workflow leveraging Microsoft Semantic Kernel orchestration patterns for stateful telemetry analysis and ultra-low latency edge responsiveness.
+* **Tech Stack:** Blazor WASM, Microsoft Semantic Kernel, Cloudflare Pages / Workers AI Edge Compute, Llama 3.1 / DeepSeek / Mistral.
 * **Live Application:** [https://ai-telemetry-dashboard.pages.dev/](https://ai-telemetry-dashboard.pages.dev/)
 
-### ☁️ **Azure Static Web Apps & Enterprise AI Platform Gateway**
-Hosted on Azure Static Web Apps (SWA), establishing an enterprise cloud foundation for Azure AI ecosystem integration and multi-agent model governance. Benchmark-models advanced enterprise LLM tiering (`gpt-5-mini` Advanced & `gpt-4-mini` Fast) mapped to Azure cloud compute specifications.
-* **Tech Stack:** Blazor WASM, Azure Static Web Apps (SWA), Azure AI Platform / OpenAI Enterprise Gateway Integration.
+### ☁️ **Azure Static Web Apps & Enterprise Azure AI Foundry Gateway**
+Hosted on Azure Static Web Apps (SWA), serving as an enterprise cloud gateway engineered around Azure AI Foundry (Agents & Workflows). Orchestrates sequential multi-agent workflows across tiered enterprise LLMs (`gpt-5-mini` Advanced & `gpt-4-mini` Fast) to establish a deterministic foundation for Azure AI cloud infrastructure.
+* **Tech Stack:** Blazor WASM, Azure Static Web Apps (SWA), Azure AI Foundry (Agents & Workflows), OpenAI Enterprise Gateway Integration.
 * **Live Application:** [https://gray-beach-08d1d0d0f.4.azurestaticapps.net](https://gray-beach-08d1d0d0f.4.azurestaticapps.net)
 
 ---
