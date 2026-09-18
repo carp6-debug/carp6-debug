@@ -3,6 +3,12 @@
 
 ---
 
+### 🚀 **Live Multi-Cloud Deployments**
+* 🌐 **Cloudflare Workers AI Edge Node (Serverless Edge Inference):** [ai-telemetry-dashboard.pages.dev](https://ai-telemetry-dashboard.pages.dev/)
+* ☁️ **Azure SWA & AI Foundry Gateway (Enterprise Azure Cloud):** [gray-beach-08d1d0d0f.4.azurestaticapps.net](https://gray-beach-08d1d0d0f.4.azurestaticapps.net)
+
+---
+
 # 💼 Professional Profile
 
 I am a **Senior Systems Architect and Programmer Analyst** specializing in the engineering of resilient, production‑ready data and intelligence systems. My career spans deep technical domains—from **component‑level electronics** and **hardware failure analysis**, through **complex test engineering**, and into modern **enterprise software architecture**. This foundation enables me to design systems that are both technically rigorous and operationally durable.
